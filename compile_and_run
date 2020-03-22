@@ -1,0 +1,7 @@
+compilar: g++ projeto.cpp -o ok -std=c++1z -pthread
+rodar: ./ok
+
+após isso é so abrir o Visual 3d com o comando:
+wine Visual3D.exe
+
+e conectar ao endereço: 127.0.0.1
